@@ -56,8 +56,6 @@ I'm Megha, an NIT Hamirpur graduate passionate about building interactive, user-
 ## 🤝 Feedback & Suggestions
 If you have feedback or suggestions to improve these projects, feel free to connect or raise an issue!
 
----
-
 *Feel free to explore and suggest improvements!*
 
 ---
