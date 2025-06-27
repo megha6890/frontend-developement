@@ -38,8 +38,7 @@ Each folder contains standalone projects focused on different aspects of web dev
 
 Clone this repository:
 
-```bash
-git clone https://github.com/yourusername/frontend-developement.git
+git clone https://github.com/megha6890/frontend-developement.git
 cd frontend-developement
 
 Navigate to any folder and open the .html files directly in your browser to see the project in action.
@@ -52,6 +51,3 @@ If you have feedback or suggestions to improve these projects, feel free to conn
 
 ---
 
-✅ Just replace `yourusername` with your actual GitHub username.
-
-**Want me to generate this as a ready `.md` file?** Just say the word!
