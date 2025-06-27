@@ -6,6 +6,7 @@ This repository contains my collection of small to medium-sized projects built t
 
 ## 📂 Project Structure
 
+```
 /frontend-developement
 ├── Color Vocab Project
 ├── CSS Display
@@ -18,6 +19,7 @@ This repository contains my collection of small to medium-sized projects built t
 ├── Mondrian Project
 ├── Bootstrap Intro
 └── Bootstrap Components
+```
 
 Each folder contains standalone projects focused on different aspects of web development.
 
@@ -42,6 +44,8 @@ git clone https://github.com/megha6890/frontend-developement.git
 cd frontend-developement
 
 Navigate to any folder and open the .html files directly in your browser to see the project in action.
+
+---
 
 ## 📌 About Me
 
