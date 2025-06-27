@@ -12,13 +12,18 @@ This repository contains my collection of small to medium-sized projects built t
 ## 📂 Project Structure
 
 ```
-/Web-Development-Projects
-├── HTML-CSS-Projects
-├── JavaScript-Basics
-├── DOM-Manipulation
-├── Advanced-JavaScript
-├── jQuery-Projects
-└── Mini-Applications
+/frontend-developement
+├── Color Vocab Project
+├── CSS Display
+├── CSS Float
+├── Media Query
+├── Web Design Agency Project
+├── Flexbox Pricing Table Project
+├── Display Grid
+├── Grid Placement
+├── Mondrian Project
+├── Bootstrap Intro
+└── Bootstrap Components
 ```
 
 Each folder contains standalone projects focused on different aspects of web development.
@@ -41,8 +46,8 @@ Each folder contains standalone projects focused on different aspects of web dev
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Web-Development-Projects.git
-   cd Web-Development-Projects
+   git clone https://github.com/yourusername/frontend-developement.git
+   cd frontend-developement
    ```
 
 2. Navigate to any folder and open the `.html` files directly in your browser to see the project in action.
@@ -60,5 +65,3 @@ I'm Megha, passionate about frontend development and continuously building proje
 If you have feedback or suggestions to improve these projects, feel free to connect or raise an issue!
 
 ---
-
-**Want me to add project examples inside each folder?** Just tell me your project names, I’ll update the README accordingly!
