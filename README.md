@@ -43,11 +43,18 @@ cd frontend-developement
 
 Navigate to any folder and open the .html files directly in your browser to see the project in action.
 
-📌 About Me
-I'm Megha, passionate about frontend development and continuously building projects using HTML, CSS, JavaScript, DOM, Advanced JS, and jQuery to enhance my skills and project portfolio.
+## 📌 About Me
 
-🤝 Feedback & Suggestions
+I'm Megha, an NIT Hamirpur graduate passionate about building interactive, user-friendly applications. Actively enhancing my skills in frontend technologies.
+
+---
+
+## 🤝 Feedback & Suggestions
 If you have feedback or suggestions to improve these projects, feel free to connect or raise an issue!
+
+---
+
+*Feel free to explore and suggest improvements!*
 
 ---
 
